@@ -1,4 +1,4 @@
-package com.example.stocks.service;
+package com.example.stocks.service.candle;
 
 import java.time.OffsetDateTime;
 import java.util.Optional;
@@ -14,7 +14,7 @@ import ru.tinkoff.invest.openapi.models.market.HistoricalCandles;
 @Profile("!local")
 @Service
 @RequiredArgsConstructor
-public class OnlineStorageService implements StorageService {
+public class OnlineCandleStorageService implements CandleStorageService {
 
   private final OpenApi openApi;
 

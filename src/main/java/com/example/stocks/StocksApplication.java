@@ -8,9 +8,11 @@ import org.springframework.boot.context.properties.ConfigurationPropertiesScan;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.context.annotation.ComponentScan;
+import org.springframework.scheduling.annotation.EnableScheduling;
 import ru.tinkoff.invest.openapi.OpenApi;
 import ru.tinkoff.invest.openapi.okhttp.OkHttpOpenApiFactory;
 
+@EnableScheduling
 @EnableCaching
 @SpringBootApplication
 @EnableConfigurationProperties({ApplicationProperties.class})

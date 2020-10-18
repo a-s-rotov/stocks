@@ -1,4 +1,4 @@
-package com.example.stocks.service;
+package com.example.stocks.service.candle;
 
 import com.example.stocks.dto.SupportPoint;
 import com.example.stocks.enums.Flow;

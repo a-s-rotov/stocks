@@ -1,4 +1,4 @@
-package com.example.stocks.service;
+package com.example.stocks.service.candle;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
@@ -15,7 +15,7 @@ import ru.tinkoff.invest.openapi.models.market.HistoricalCandles;
 @Service
 @Profile("local")
 @RequiredArgsConstructor
-public class LocalStorageService implements StorageService {
+public class LocalCandleStorageService implements CandleStorageService {
 
   private final ObjectMapper objectMapper;
 
