@@ -1,0 +1,856 @@
+{
+  "items": [
+    {
+      "goldenRecordId": 1,
+      "primaryRecordId": 1,
+      "primaryRecord": {
+        "driverLicFirstName": "ВИКТОР",
+        "altIdCardAddress": "РЯЗАНСКАЯ ОБЛАСТЬ, Г РЯЗАНЬ, ПРОЕЗД 1-Й ЗЕМЛЯНИЧНЫЙ, Д. 10",
+        "altIdCardLastName": "ПОТАПОВ",
+        "altDriverLicMiddleName": "ПЕТРОВИЧ",
+        "altDriverLicStartDate": "2012-10-03",
+        "altDriverLicBirthDate": "1974-10-03",
+        "idCardType": "12",
+        "actualizationDate": "2020-01-19T14:40:00Z",
+        "emailType": "Д",
+        "altDriverLicIssueDate": "2016-10-03",
+        "idCardBirthDate": "1974-10-03",
+        "altIdCardNumber": "834522",
+        "id": 1,
+        "state": "ACTIVE",
+        "driverLicMiddleName": "ПЕТРОВИЧ",
+        "altDriverLicType": "22",
+        "altIdCardMiddleName": "ПЕТРОВИЧ",
+        "altDriverLicNameBirthHash": "C6D7783E040233784CF5C813BE5BD4699C99507EEF4C027E0CA25F3BF0F2D446",
+        "addressType": "2",
+        "altIdCardCountry": "643",
+        "addressFias": "6932DE74-4CBF-4602-BF36-F29860129B36",
+        "altIdCardBirthDate": "1974-10-03",
+        "altDriverLicNumber": "456665",
+        "idCardIssueDate": "2019-10-03",
+        "idCardAddressType": "1",
+        "driverLicLastName": "ПОТАПОВ",
+        "phone": "87997777811",
+        "altDriverLicFirstName": "ВИКТОР",
+        "idCardNumber": "895543",
+        "altIdCardSeries": "5677",
+        "altIdCardNameBirthHash": "C6D7783E040233784CF5C813BE5BD4699C99507EEF4C027E0CA25F3BF0F2D446",
+        "idCardAddress": "УЛ ВЫСОЦКОГО, Д 15",
+        "idCardLastName": "ПОТАПОВ",
+        "driverLicType": "20",
+        "idCardCountry": "643",
+        "driverLicCountry": "643",
+        "altDriverLicLastName": "ПОТАПОВ",
+        "idCardNameBirthHash": "C6D7783E040233784CF5C813BE5BD4699C99507EEF4C027E0CA25F3BF0F2D446",
+        "stsSeries": "7751",
+        "idCardMiddleName": "ПЕТРОВИЧ",
+        "altDriverLicSeries": "5773",
+        "altDriverLicCountry": "044",
+        "idCardSeries": "4663",
+        "driverLicIssueDate": "2012-10-03",
+        "driverLicBirthDate": "1974-10-03",
+        "idCardAddressFias": "DCB0FF2A-2A48-4D3B-B035-8DBFFBA47230",
+        "altIdCardFirstName": "ВИКТОР",
+        "driverLicNumber": "674332",
+        "email": "QWEQWE@QEWW.COM",
+        "createDate": "2020-07-07T13:53:57.390Z",
+        "phoneType": "Д",
+        "address": "УЛИЦА 1-Я УЛИЦА МЕХАНИЗАТОРОВ, ДОМ 13",
+        "altIdCardAddressType": "1",
+        "previousPrimaryRecordId": 34,
+        "inn": "645333624334",
+        "stsNumber": "755355",
+        "altIdCardAddressFias": "BA80D8FE-77F7-47F0-A45A-46E52E1A9DEF",
+        "altIdCardType": "11",
+        "idCardFirstName": "ВИКТОР",
+        "driverLicSeries": "8455",
+        "driverLicStartDate": "2002-10-03",
+        "driverLicCategory": "A",
+        "altDriverLicCategory": "A",
+        "driverLicNameBirthHash": "C6D7783E040233784CF5C813BE5BD4699C99507EEF4C027E0CA25F3BF0F2D446",
+        "snils": "59151321886",
+        "altIdCardIssueDate": "1994-10-03"
+      },
+      "originalPrimaryRecord": {
+        "driverLicFirstName": "Виктор",
+        "altIdCardAddress": "Рязанская область, г Рязань, проезд 1-й Земляничный, д. 10",
+        "altIdCardLastName": "Потапов",
+        "altDriverLicMiddleName": "Петрович",
+        "altDriverLicStartDate": "2012-10-03",
+        "altDriverLicBirthDate": "1974-10-03",
+        "idCardType": "12",
+        "emailType": "Д",
+        "altDriverLicIssueDate": "2016-10-03",
+        "idCardBirthDate": "1974-10-03",
+        "altIdCardNumber": "834522",
+        "id": 1,
+        "driverLicMiddleName": "Петрович",
+        "altDriverLicType": "22",
+        "altIdCardMiddleName": "Петрович",
+        "addressType": "2",
+        "altIdCardCountry": "643",
+        "addressFias": "6932de74-4cbf-4602-bf36-f29860129b36",
+        "altIdCardBirthDate": "1974-10-03",
+        "altDriverLicNumber": "456665",
+        "idCardIssueDate": "2019-10-03",
+        "idCardAddressType": "1",
+        "driverLicLastName": "Потапов",
+        "phone": "87997777811",
+        "altDriverLicFirstName": "Виктор",
+        "recordHash": "1iuXuC+PEtCMZtZ4XTQIuw==",
+        "idCardNumber": "895543",
+        "altIdCardSeries": "5677",
+        "idCardAddress": "ул Высоцкого, д 15",
+        "idCardLastName": "Потапов",
+        "driverLicType": "20",
+        "idCardCountry": "643",
+        "driverLicCountry": "643",
+        "altDriverLicLastName": "Потапов",
+        "stsSeries": "7751",
+        "idCardMiddleName": "Петрович",
+        "altDriverLicSeries": "5773",
+        "altDriverLicCountry": "044",
+        "idCardSeries": "4663",
+        "driverLicIssueDate": "2012-10-03",
+        "driverLicBirthDate": "1974-10-03",
+        "idCardAddressFias": "dcb0ff2a-2a48-4d3b-b035-8dbffba47230",
+        "altIdCardFirstName": "Виктор",
+        "driverLicNumber": "674332",
+        "email": "qweqwe@qeww.com",
+        "createDate": "2020-07-07T13:53:57.419Z",
+        "primaryRecordId": 1,
+        "phoneType": "Д",
+        "address": "улица 1-я улица Механизаторов, дом 13",
+        "altIdCardAddressType": "1",
+        "previousPrimaryRecordId": 34,
+        "inn": "645333624334",
+        "stsNumber": "755355",
+        "altIdCardAddressFias": "ba80d8fe-77f7-47f0-a45a-46e52e1a9def",
+        "altIdCardType": "11",
+        "idCardFirstName": "Виктор",
+        "driverLicSeries": "8455",
+        "driverLicStartDate": "2002-10-03",
+        "driverLicCategory": "A",
+        "altDriverLicCategory": "A",
+        "snils": "59151321886",
+        "altIdCardIssueDate": "1994-10-03"
+      },
+      "recordElements": [
+        {
+          "id": 1,
+          "primaryRecordId": 1,
+          "sourceType": "OSAGO_PAPER",
+          "ownerKey": "2027",
+          "businessObjectType": "CONTRACT",
+          "businessObjectKey": "356",
+          "businessObjectData": "45633456",
+          "actualizationDate": "2020-01-19T14:40:00Z",
+          "state": "ACTIVE",
+          "createDate": "2020-07-07T13:53:57.508Z",
+          "updateDate": "2020-07-07T13:53:57.508Z"
+        },
+        {
+          "id": 38,
+          "primaryRecordId": 1,
+          "sourceType": "OSAGO_PAPER",
+          "ownerKey": "2027",
+          "businessObjectType": "CONTRACT",
+          "businessObjectKey": "5b7a881d-e570-3eab-be07-d3c5e5243f3e",
+          "businessObjectData": "5b7a881d-e570-3eab-be07-d3c5e5243f3e",
+          "actualizationDate": "2020-01-19T14:40:00Z",
+          "state": "ACTIVE",
+          "createDate": "2020-08-19T06:52:33.17Z",
+          "updateDate": "2020-08-19T06:52:33.17Z"
+        }
+      ],
+      "qualityReport": {
+        "qualityGrade": [
+          {
+            "attributeName": "lastName",
+            "identifiabilityGrade": "ABSENT",
+            "originGrade": "ABSENT",
+            "validationGrade": "ABSENT",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "firstName",
+            "identifiabilityGrade": "ABSENT",
+            "originGrade": "ABSENT",
+            "validationGrade": "ABSENT",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "middleName",
+            "identifiabilityGrade": "ABSENT",
+            "originGrade": "ABSENT",
+            "validationGrade": "ABSENT",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "birthDate",
+            "identifiabilityGrade": "ABSENT",
+            "originGrade": "ABSENT",
+            "validationGrade": "ABSENT",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "nameBirthHash",
+            "identifiabilityGrade": "ABSENT",
+            "originGrade": "ABSENT",
+            "validationGrade": "ABSENT",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "previousPrimaryRecordId",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "addressType",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "address",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "addressFias",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "snils",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "inn",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "phoneType",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "phone",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "emailType",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "email",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "stsSeries",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "stsNumber",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardCountry",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardType",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardSeries",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardNumber",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardIssueDate",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardLastName",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardFirstName",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardMiddleName",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardBirthDate",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardNameBirthHash",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardAddressType",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardAddress",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardAddressFias",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardInvalidityStatus",
+            "identifiabilityGrade": "ABSENT",
+            "originGrade": "ABSENT",
+            "validationGrade": "ABSENT",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardInvalidityDate",
+            "identifiabilityGrade": "ABSENT",
+            "originGrade": "ABSENT",
+            "validationGrade": "ABSENT",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "idCardInvalidityReason",
+            "identifiabilityGrade": "ABSENT",
+            "originGrade": "ABSENT",
+            "validationGrade": "ABSENT",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardCountry",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardType",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardSeries",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardNumber",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardIssueDate",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardLastName",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardFirstName",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardMiddleName",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardBirthDate",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardNameBirthHash",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardAddressType",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardAddress",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardAddressFias",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardInvalidityStatus",
+            "identifiabilityGrade": "ABSENT",
+            "originGrade": "ABSENT",
+            "validationGrade": "ABSENT",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardInvalidityDate",
+            "identifiabilityGrade": "ABSENT",
+            "originGrade": "ABSENT",
+            "validationGrade": "ABSENT",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altIdCardInvalidityReason",
+            "identifiabilityGrade": "ABSENT",
+            "originGrade": "ABSENT",
+            "validationGrade": "ABSENT",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "driverLicType",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "driverLicCountry",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "driverLicSeries",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "driverLicNumber",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "driverLicIssueDate",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "driverLicLastName",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "driverLicFirstName",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "driverLicMiddleName",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "driverLicBirthDate",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "driverLicNameBirthHash",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "driverLicStartDate",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "driverLicCategory",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altDriverLicType",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altDriverLicCountry",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altDriverLicSeries",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altDriverLicNumber",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altDriverLicIssueDate",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altDriverLicLastName",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altDriverLicFirstName",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altDriverLicMiddleName",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altDriverLicBirthDate",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altDriverLicNameBirthHash",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altDriverLicStartDate",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "attributeName": "altDriverLicCategory",
+            "identifiabilityGrade": "IDENTIFYING",
+            "originGrade": "ABSENT",
+            "validationGrade": "VALID",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          }
+        ],
+        "identifierQualityGrade": [
+          {
+            "identifierCode": "idCard",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "identifierCode": "altIdCard",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "identifierCode": "driverLicense",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          },
+          {
+            "identifierCode": "altDriverLicense",
+            "verificationByGovGrade": "NOT_CHECKED",
+            "verificationByOrgGrade": "NOT_CHECKED",
+            "verificationByPartnerGrade": "NOT_CHECKED"
+          }
+        ]
+      }
+    }
+  ],
+  "missingIds": []
+}
