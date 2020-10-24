@@ -1,5 +1,6 @@
 package com.example.stocks.subscriber;
 
+import com.example.stocks.dto.HistoricalOrderbook;
 import com.example.stocks.enums.EntityType;
 import com.example.stocks.service.orderbook.OrderbookStorageService;
 import java.time.OffsetDateTime;
@@ -32,7 +33,10 @@ public class StreamingApiSubscriber extends AsyncSubscriber<StreamingEvent> {
         break;
       case ORDERBOOK:
         logger.info("New orderbook event received from Streaming API\n" + event);
-        orderbookStorageService.putItem(OffsetDateTime.now(), (StreamingEvent.Orderbook) event);
+        orderbookStorageService.putItem(HistoricalOrderbook.builder()
+                .orderbook((StreamingEvent.Orderbook) event)
+                .time(OffsetDateTime.now())
+                .build());
         break;
 
     }

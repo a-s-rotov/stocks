@@ -1,6 +1,7 @@
 package com.example.stocks.service.orderbook;
 
 import static com.example.stocks.util.TimeUtil.roundFiveMinute;
+import com.example.stocks.dto.HistoricalOrderbook;
 import com.example.stocks.properties.ApplicationProperties;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.FileOutputStream;
@@ -17,7 +18,6 @@ import javax.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
-import ru.tinkoff.invest.openapi.models.streaming.StreamingEvent;
 
 @Service
 public class OrderbookStorageService {
@@ -29,7 +29,7 @@ public class OrderbookStorageService {
   private ApplicationProperties applicationProperties;
 
 
-  private ConcurrentMap<String, List<StreamingEvent.Orderbook>> storage;
+  private ConcurrentMap<String, List<HistoricalOrderbook>> storage;
 
   @PostConstruct
   public void init() {
@@ -37,28 +37,35 @@ public class OrderbookStorageService {
   }
 
 
-  public void putItem(OffsetDateTime time, StreamingEvent.Orderbook item) {
-    List<StreamingEvent.Orderbook> orderbooks = storage.get(roundFiveMinute(time));
+  public void putItem(HistoricalOrderbook item) {
+    List<HistoricalOrderbook> orderbooks = storage.get(roundFiveMinute(item.getTime()));
     if (orderbooks == null) {
       orderbooks = new ArrayList<>();
     }
     orderbooks.add(item);
-    storage.put(roundFiveMinute(time), orderbooks);
+    storage.put(roundFiveMinute(item.getTime()), orderbooks);
   }
 
   @Scheduled(fixedRate = 6000)
   public void scheduleTask() throws IOException {
-    String currentValue = roundFiveMinute(OffsetDateTime.now());
-    Iterator<Map.Entry<String, List<StreamingEvent.Orderbook>>> iterator = storage.entrySet().iterator();
+    OffsetDateTime currentTime = OffsetDateTime.now();
+    String currentValue = roundFiveMinute(currentTime);
+    Iterator<Map.Entry<String, List<HistoricalOrderbook>>> iterator = storage.entrySet().iterator();
 
     while (iterator.hasNext()) {
-      Map.Entry<String, List<StreamingEvent.Orderbook>> entry = iterator.next();
+      Map.Entry<String, List<HistoricalOrderbook>> entry = iterator.next();
       if (!entry.getKey().equals(currentValue)) {
 
         if (applicationProperties.getFlightRecorder().isEnable()) {
-          for (List<StreamingEvent.Orderbook> value : storage.values()) {
-            objectMapper.writeValue(new FileOutputStream(Path.of(currentValue + "_data.json").toFile(), true), value);
+          FileOutputStream fileOutputStream =
+              new FileOutputStream(Path.of(currentTime.getHour() + currentValue + "_data.json").toFile(), true);
+          fileOutputStream.write('[');
+          for (List<HistoricalOrderbook> value : storage.values()) {
+            String string = objectMapper.writeValueAsString(value);
+            fileOutputStream.write(string.getBytes());
           }
+          fileOutputStream.write(']');
+          fileOutputStream.close();
         }
 
         storage.remove(entry.getKey());
